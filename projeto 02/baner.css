@@ -1,0 +1,15 @@
+.baner{
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-blue-smart-light-tech-background-backgroundlight-effect-backgroundelectronic-image_81225.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.subtitulo{
+    color:beige;
+    font-size: 29px;
+    font-family: "Helvetica Neue",Helvetica,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,cursive;
+}
