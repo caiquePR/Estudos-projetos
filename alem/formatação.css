@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    border:0;
+    box-shadow: none;
+}
+body{
+    background: url(./Cassiopeia-A.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    line-height: 1.5;
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}
+li{
+    list-style: none;
+}
